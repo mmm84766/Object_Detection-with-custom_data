@@ -1,8 +1,5 @@
 ## How to Run
 
-Easy way: run [this Colab Notebook](https://colab.research.google.com/github/Tony607/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb).
-
-
 ### Install required libraries
 `pip3 install -r requirements.txt`
 
@@ -21,5 +18,5 @@ Resized images locate in `./data/images/`
 *Tips: use shortcuts (`w`: draw box, `d`: next file, `a`: previous file, etc.) to accelerate the annotation.*
 
 
-### Step 2: Open [Colab notebook](https://colab.research.google.com/github/Tony607/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb)
-
+### Step 2: Open [Colab notebook]
+I already uploaded in my file system
