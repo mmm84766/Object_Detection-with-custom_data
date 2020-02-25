@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>badimage_0_3773.png</filename>
+	<path>/home/manish/Music/SwitcOn/data/Final_Dataset/train/badimage_0_3773.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>140</ymin>
+			<xmax>392</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>
