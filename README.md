@@ -8,7 +8,7 @@
 - Save some photos with your custom object(s), ideally with `jpg` extension to `./data/raw` directory. (If your objects are simple like ones come with this repo, 20 images can be enough.)
 - Resize those photo to uniformed size.
 ```
-python resize_images.py --raw-dir ./data/raw --save-dir ./data/images --ext jpg --target-size "(800, 600)"
+python resize_images.py --raw-dir ./data/raw --save-dir ./data/images --ext jpg 
 ```
 Resized images locate in `./data/images/`
 - Train/test split those files into two directories, `./data/images/train` and `./data/images/test`
@@ -19,4 +19,4 @@ Resized images locate in `./data/images/`
 
 
 ### Step 2: Open [Colab notebook]
-I already uploaded in my file system
+I already uploaded notebook in my file system
