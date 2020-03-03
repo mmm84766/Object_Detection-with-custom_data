@@ -20,3 +20,4 @@ Resized images locate in `./data/images/`
 
 ### Step 2: Open [Colab notebook]
 I already uploaded notebook in my file system
+https://colab.research.google.com/drive/158IKph6ZvAbNTElOxHTgMrKJ4gXdeQjX#scrollTo=Bq_phVcHnfPl
